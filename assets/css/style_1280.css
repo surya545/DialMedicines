@@ -1,0 +1,170 @@
+#center_img{background:url('../images/home_1280_2.png') 0px -168px no-repeat;width:1246px;height:255px;margin-top:40px;}
+.bar{width:1246px;}
+.ie7 .bar{width:1246px;overflow:hidden;}
+#blue_bar{padding:5px;position:relative;float:left;width:613px;height:70px;background-color:#005AAB;}
+#blue_bar #details{position:absolute;right:120px;top:17px;height:50px;width:267px;}
+#blue_bar #details #img{float:left;width:50px;height:50px;background:url('../images/home_1280_2.png') 0px 0px no-repeat;display:inline-block;}
+#blue_bar #details p#baseFont{margin-left:25px;float:left;}
+#blue_bar #details p #smallFont{color:white;font-weight;bolder;font-size:16px;display:block;}
+#blue_bar #details p #bigFont{margin-top:4px;color:white;font-weight;bolder;font-size:34px!important;display:block;}
+.ie7 #blue_bar #details #bigFont{height:30px;display:inline-block;font-size:31px!important;}
+
+#red_bar{padding:5px;position:relative;float:left;width:613px;height:70px;background-color:#ED1B24;}
+#red_bar #details{position:absolute;left:25px;top:17px;height:50px;width:267px;}
+#red_bar #details #img{float:left;width:50px;height:50px;background:url('../images/home_1280_2.png') -75px 0px no-repeat;display:inline-block;}
+#red_bar #details p#baseFont{margin-left:20px;float:left;}
+#red_bar #details p #smallFont{color:white;font-weight;bolder;font-size:16px;display:block;}
+#red_bar #details p #bigFont{margin-top:4px;color:white;font-weight;bolder;font-size:34px!important;display:block;}
+.ie7 #red_bar #details p #bigFont{height:30px;display:inline-block;font-size:31px!important;}
+#bottom_bar{padding:10px;height:60px;}
+
+#bottom_bar #empty{float:left;margin-right:0px!important;height:50px;width:260px;}
+#bottom_bar #shipping{float:left;width:180px;height:50px;margin-top:5px;}
+#bottom_bar #shipping #img{float:left;background:url('../images/home_1280_2.png') -426px 4px;display:inline-block;width:50px;height:50px;}
+#bottom_bar #shipping #text{margin-top:16px;float:left;font-weight: bolder;}
+
+#bottom_bar #delivery{float:left;width:270px;height:50px;margin-top:5px;}
+#bottom_bar #delivery #img{float:left;background:url('../images/home_1280_2.png') -483px 4px;display:inline-block;width:50px;height:50px;}
+#bottom_bar #delivery #text{margin-top:16px;float:left;font-weight: bolder;}
+
+#bottom_bar #cash_on_delivery{float:left;width:210px;height:50px;margin-top:5px;}
+#bottom_bar #cash_on_delivery #img{float:left;background:url('../images/home_1280_2.png') -542px 4px;display:inline-block;width:50px;height:50px;}
+#bottom_bar #cash_on_delivery #text{margin-top:16px;float:left;font-weight: bolder;}
+
+#content{background-color:#F4F4F4;}
+
+#bcontent{width:623px;float:left;}
+#bcontent #content{border-right:2px solid white}
+#bcontent #content div{
+    color:#151515;font-weight:bold;float:right;
+    margin-right:55px;width:350px;
+    margin-top:2px;
+    padding:2px;
+    margin-left:15px;
+    border-bottom:2px dotted silver;
+}
+#bcontent #content div .space{
+    width:5px;display:inline-block;height:3px;float:left;
+}
+#content{height:445px;}
+.ie7 #content{height:355px;}
+.ie7 #bcontent #content div{padding-top:0px;margin-top:2px;}
+#bcontent #content div span{font-size:12px;}
+#bcontent #content div span.main {
+    float:left;padding:5px 0px;display:inline-block;width:330px;line-height:200%;margin-top:-2px;
+}
+.my_blue{color:#0052A3;}
+.plus{font-size:16px; margin-top:5px!important;float:left;margin-right:5px;}
+
+#rcontent{width:623px;float:left;}
+#rcontent #content div.container{float:left;width:350px;height:62px;border-bottom:2px dotted silver;margin-left:30px;margin-top:15px;}
+#rcontent #content div.container span.img{
+    float:left;
+    display:inline-block;
+    width:50px;
+    height:50px;
+    margin-right:15px;
+    margin-top:4px;
+}
+#rcontent #content div.container #note{
+    float:left;font-size:10px;font-weight:bold;width:350px;
+    display:inline-block;margin-left:40px;line-height:100%;
+    margin-top:-10px;
+}
+#rcontent #content div.container span#img1{background:url('../images/home_1280_2.png') -149px 0px no-repeat;}
+#rcontent #content div.container span#img2{background:url("../images/home_1280_2.png") -221px 2px no-repeat;}
+#rcontent #content div.container span#img3{background:url('../images/home_1280_2.png') -284px 2px no-repeat;}
+#rcontent #content div.container span#img4{background:url('../images/home_1280_2.png') -362px 0px no-repeat;}
+
+#rcontent #content div.container div.desc span.header{float:left;display:block;color:#ED1B24;font-size:12px;font-weight:bold;}
+#rcontent #content div.container div.desc span.footer{margin-top:2px;float:left;display:inline-block;font-size:11px;line-height:120%!important;font-weight:bold;}
+
+div#my_footer{background:#000;padding:5px;}
+.ie7 div#my_footer{}    
+div#my_footer div#links{float:left;margin-left:240px;margin-right:340px;}
+div#my_footer div#links span a{color:white;font-size:10px;font-weight:bold;}    
+div#my_footer div#copyrights{color:white;font-weight:bold;font-size:10px;margin-top:0px!important;} 
+
+div#my_header{width:1246px;height:100px;}
+div#my_header div#container{width:775px;margin-left:290px;margin-top:24px;height:70px;}    
+div#my_header div#container span#logo{width:180px;height:60px;display:inline-block;background:url('../images/home_1280_2.png') -1100px -6px no-repeat;margin-top:9px;float:left;}
+div#my_header div#container p{display:inline-block;float:left;margin-left:50px;}
+div#my_header div#container p span#text_new{display:block;color:#555555;font-size:12px;font-weight:bold;}
+div#my_header div#container p span#text_signup{color:#0059AA;font-size:16px;font-weight:bold;}
+div#my_header div#container div#login_container{width:406px;float:left;margin-left:30px;}
+div#my_header div#container div#login_container div#top{margin-top:-5px;}
+div#my_header div#container div#login_container div#top span#text{float:left;font-size:12px;font-weight:bold;}
+div#my_header div#container div#login_container div#top span#twitter_logo{
+    float:right;display:inline-block;width:20px;height:20px;
+    background:url('../images/home_1280_2.png') -640px -3px no-repeat;margin-left:3px;
+}
+div#my_header div#container div#login_container div#top #facebook_logo{
+    float:right;display:inline-block;width:20px;height:20px;
+    background:url('../images/home_1280_2.png') -609px -2px no-repeat;
+}
+div#my_header div#container div#login_container div#my_login{
+    padding:10px;margin-top:5px;float:left;height:26px;width:386px;
+    border:1px solid #e5e5e5;border-radius:5px 5px 5px 5px;
+}
+
+.ie9 div#my_header div#container div#login_container div#my_login{width:388px;}
+.generic div#my_header div#container div#login_container div#my_login{width:388px;}
+.ie7 div#my_header div#container div#login_container div#my_login{margin-top:10px;}
+    
+div#my_header div#container div#login_container div#my_login #mobile_label{float:left;display:inline-block;font-size:12px;margin-top:3px;margin-right:12px;font-weight:bold;}
+div#my_header div#container div#login_container div#my_login #mobile{float:left;width:100px;margin-right:7px;font-size:12px;height:16px;}    
+div#my_header div#container div#login_container div#my_login #pin_label{float:left;display:inline-block;font-size:12px;margin-top:3px;margin-right:7px;font-weight:bold;}
+div#my_header div#container div#login_container div#my_login #pin{float:left;width:100px;margin-right:7px;font-size:12px;height:16px;}
+div#my_header div#container div#login_container div#my_login #login{cursor:pointer;display:inline-block;width:70px;height:32px;background:url('../images/home_1280_2.png') -671px 0px no-repeat;margin-top:-3px;}
+
+div#myModal{display:none;width:220px;position:fixed;top:100px;left:380px;background:#fff;border-radius:8px 8px 8px 8px;z-index:99999;padding:18px;border:none!important;}
+.ie7 div#myModal{top:110px;}
+
+div#loaderDiv{display:none;position:absolute;top:150px;left:45%;z-index:9999; box-shadow: 5px 5px 8px #CCC;}
+.ie7 div#loaderDiv{top:100px;}
+div#signupSuccess{display:none;z-index:9999;width:500px;border:1px solid #e5e5e5;position:absolute;
+box-shadow: 5px 5px 8px #CCC;top:275px;left:30%;padding:15px;box-shadow: 5px 5px 8px #CCC;background:#fff;border-radius:6px;}
+.ie7 div#signupSuccess{top:100px;}
+div#signupSuccess span h5{color:#005AAB;line-height:130%;text-align:left;font-size:17px!important;margin-top:0px;padding-bottom:0px;margin-bottom:0px;z-index:9999}
+.ie7 div#signupFailure{top:100px;}
+div#signupFailure{display:none;position:absolute;top:-50px;background:#fff;box-shadow: 5px 5px 8px #CCC;width:385px;height:20px;padding:10px;z-index:9999;border-radius:6px;border:1px solid #e5e5e5;}
+div#signupFailure span h5{color:#005AAB;line-height:130%;text-align:left;font-size:16px;margin-top:0px;margin-left:0px}
+
+div#error_Div{
+	color:#005AAB;line-height:130%;text-align:left;font-size:17px!important;
+	margin-top:0px;padding-bottom:0px;margin-bottom:0px;display:none;position:absolute;
+	top:361px;left:450px;background:#fff;width:320px;height:20px;padding:10px;z-index:11111;box-shadow: 5px 5px 8px #CCC;
+	border-radius:6px;border:1px solid #e5e5e5;
+}
+
+.ie7 div#error_Div{top:100px;}
+
+div#error_Div span h5{color:#005AAB;line-height:130%;text-align:left;font-size:16px;margin-top:0px;margin-left:0px}
+
+
+/* written by E159 */
+div#error_Div1{
+	color:#005AAB;line-height:130%;text-align:left;font-size:17px!important;
+	margin-top:0px;padding-bottom:0px;margin-bottom:0px;display:none;position:absolute;
+	top:100px;left:37%;background:#fff;width:325px;height:20px;padding:10px;z-index:11111;box-shadow: 5px 5px 8px #CCC;
+	border-radius:6px;border:1px solid #e5e5e5;
+}
+
+.ie7 div#error_Div1{top:100px;}
+
+div#error_Div1 span h5{color:#005AAB;line-height:130%;text-align:left;font-size:16px;margin-top:0px;margin-left:0px}
+/* written by E159 */
+
+form#Signup{margin:0px 0px 5px 0px!important;}
+
+span#forgot_pwd{font-size:12px;float:right;margin-right:5px;font-weight:bold;color:#005AAB;cursor:pointer;}
+
+
+div#forgotModal{
+	width: 260px; position: absolute; top: 120px; border: 1px solid rgb(229, 229, 229);	 border-radius:6px; 
+	background: none; right: 35%; top: 35%; height: 150px; padding: 20px 15px; z-index:99998;background: white;
+}
+
+span#img1:hover{background:url("../images/home_1280_2.png") no-repeat scroll 1px -798px transparent!important;}
+span#img3:hover{background:url("../images/home_1280_2.png") no-repeat scroll -248px -798px transparent!important;}
+span#img4:hover{background:url("../images/home_1280_2.png") no-repeat scroll -370px -797px transparent!important;}
